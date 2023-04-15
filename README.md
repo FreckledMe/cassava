@@ -107,6 +107,9 @@ Please cite this paper if you use the dataset for your project: https://arxiv.or
 <!-- USAGE EXAMPLES -->
 ## Usage
    Use [Streamlit](https://github.com/streamlit/streamlit)
+   
+   If you don't want to train the model, you can use my pre-trained [model](https://drive.google.com/file/d/17UAQh-L1O9foE_ms310xiVrX_K6I0HvC/view?usp=share_link)
+
    ```sh 
    (virtual-environment-name)/streamlit run stream.py
    ```
