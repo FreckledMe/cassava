@@ -98,7 +98,7 @@ Please cite this paper if you use the dataset for your project: https://arxiv.or
    ```sh
    (virtual-environment-name) pip install -r requirements.txt
    ```
-6. Run [cassava_notebook.ipynb ](https://github.com/FreckledMe/rock_paper_scissors/blob/main/cassava_notebook.ipynb)
+6. Run [cassava_notebook.ipynb ](https://github.com/FreckledMe/cassava/blob/main/cassava_notebook.ipynb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
