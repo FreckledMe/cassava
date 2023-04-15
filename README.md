@@ -1,5 +1,4 @@
 # cassava
- # cassava
  
 <a name="readme-top"></a>
 
@@ -9,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FreckledMe/rock_paper_scissors">
-    <img src="images/daco.png" alt="Logo" width="700" height="250">
+  <a href="https://github.com/FreckledMe/cassava">
+    <img src="images/logo.png" alt="Logo" width="700" height="250">
   </a>
 
 
@@ -81,7 +80,7 @@ Please cite this paper if you use the dataset for your project: https://arxiv.or
 
 1. Clone the repo and extract zip file
    ```sh
-   git clone https://github.com/FreckledMe/rock_paper_scissors.git
+   git clone https://github.com/FreckledMe/cassava.git
    ```
 2. Open a terminal via this extracted folder location
    ```sh
@@ -139,7 +138,7 @@ Example result
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kamoliddin-jabbarov-599b56201/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/img.png
 
 [Python]: https://staging.python.org/static/community_logos/python-powered-w-70x28.png
 [Python-url]: https://python.org/
